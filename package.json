@@ -1,0 +1,12 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "my first servy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo servy test",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
